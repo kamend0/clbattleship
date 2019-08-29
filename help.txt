@@ -1,0 +1,10 @@
+
+cl battleship was written to accept command line arguments.
+
+valid commands:
+
+1player : play one-player game with randomly placed battleships
+2player : play two-player game where one person positions hidden ships, the other orders strikes on the grid
+help : see this help screen (hello!)
+rules : see a quick explanation of the rules of the game
+

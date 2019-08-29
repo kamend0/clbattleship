@@ -1,0 +1,11 @@
+
+the goal of battleship is to sink your opponent's ships.
+
+in this simplified version of battleship, one person positions their ships, then the other orders strikes to sink them.
+
+each player begins with a score of 17. (this is equal to the number of spaces taken up by all battleships in play.)
+
+player 1 (the striker) inputs coordinates to strike. if they miss, they lose a point; if they hit a ship, they gain a point.
+
+player 2 (the concealer) chooses the positions of ships at the start of the game. for every shot player 1 misses, player 2 (the concealer) gains a point. for every successful strike on a ship, they lose a point.
+
