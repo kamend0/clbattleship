@@ -1,5 +1,5 @@
 # clbattleship
-about half of Battleship played completely in terminal. one player hides the ships, then the other fires at coordinates to sink the hidden ships; one-player mode hides ships randomly.
+about half of Battleship played completely in terminal, written in C++ and taking advantage of OOP. one player hides the ships, then the other fires at coordinates to sink the hidden ships; one-player mode hides ships randomly.
 
 Some issues:
 - pretty clunky/rough around the edges/bloated; I think I could slim down the code more.
