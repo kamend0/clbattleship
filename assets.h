@@ -105,6 +105,9 @@ public:
 
 class board {
     /*
+     gamestate is a 2D array of chars which indicate different states of
+        every cell. this is necessary to have different behaviors for each
+        state, especially in response to player moves.
      gamestate char codes:
      'o' : open water
      'h' : hit
