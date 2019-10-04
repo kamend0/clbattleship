@@ -6,4 +6,4 @@ Some issues:
 - I didn't mess with pointers, but I really should. they would probably simplify the logic and save a fair bit of memory. (specifically, passing around a pointer to the gameboard would probably be a good idea.)
 - it's half the game. would like to make it the whole game. doing this on a command line interface would be difficult.
 - it's hard. number of guesses needed to win, guessing randomly, hovers above 78. (http://www.datagenetics.com/blog/december32011/) current logic has 17 misses equating to a loss. (I feel like some sort of limit is necessary for this sort of half-version of the game.)
-- it's not all that fun. I'm not asking any of my friends to play this with me (or to play it at all).
+- I'd like to make it more fun!
